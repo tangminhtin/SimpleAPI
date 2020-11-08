@@ -18,6 +18,11 @@ namespace SimpleAPI.Test
             Assert.Equal(1, 1);
         }
 
+        [Fact]
+        public void hihi() {
+            Assert.Equal(4, 4);
+        }
+
 
 
 
