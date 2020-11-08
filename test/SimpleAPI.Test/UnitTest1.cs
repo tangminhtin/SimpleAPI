@@ -13,7 +13,10 @@ namespace SimpleAPI.Test
             Assert.Equal(1, returnValue);
         }
 
-
+        [Fact]
+        public void haha() {
+            Assert.Equal(1, 2);
+        }
 
 
 
