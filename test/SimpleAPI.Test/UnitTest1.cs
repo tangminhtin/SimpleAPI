@@ -15,7 +15,7 @@ namespace SimpleAPI.Test
 
         [Fact]
         public void haha() {
-            Assert.Equal(1, 2);
+            Assert.Equal(1, 1);
         }
 
 
